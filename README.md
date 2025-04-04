@@ -10,7 +10,7 @@
 
 ## Виконана робота:
 
-![](https://raw.githubusercontent.com/MarryBye/workshop_5/refs/heads/master/images/image.png?token=GHSAT0AAAAAAC7SG7KLP5IZZEWCWUPOQIKMZ7PUOQQ)  
+![](https://raw.githubusercontent.com/MarryBye/workshop_6/refs/heads/master/images/image.png)  
 
 Ліворуч - референси, праворуч - те, що було зроблено.
 Створений один із візерунків, запропонований в завданні.
